@@ -1,0 +1,10 @@
+* text=auto
+
+# Keep the Windows launcher compatible across checkout platforms.
+*.bat text eol=crlf
+
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf

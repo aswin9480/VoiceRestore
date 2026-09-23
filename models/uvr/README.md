@@ -1,0 +1,1 @@
+Place trusted python-audio-separator compatible UVR model weights here, preserving original filenames and companion YAML files. In VoiceRestore, scan this folder, choose the model and exact dry/vocal stem name, then select `uvr` under Download / Verify Models to cache its metadata. No UVR weights are bundled.

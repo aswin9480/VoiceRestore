@@ -1,0 +1,13 @@
+.venv*/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+logs/*
+temp/*
+outputs/*
+models/*
+!models/uvr/
+models/uvr/*
+!models/uvr/README.md
+config.local.json

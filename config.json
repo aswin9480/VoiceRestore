@@ -1,0 +1,13 @@
+{
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "uvr_model_directory": "models/uvr",
+  "output_directory": "outputs",
+  "default_preset": "Auditorium Speech",
+  "device": "auto",
+  "low_vram": true,
+  "last_dereverb_model": "",
+  "last_vocal_model": "",
+  "port": 7860,
+  "save_intermediates": false
+}
